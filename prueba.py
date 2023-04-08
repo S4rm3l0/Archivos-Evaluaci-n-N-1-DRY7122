@@ -1,0 +1,11 @@
+print("Evaluación N°1 Programción y Redes virtualizadas. Marcelo González, Dylan Jaña y Bastián Uribe.")
+
+nombre = input("Ingrese nombre: ")
+apellido = input("Ingrese Apellido: ")
+sede = input("Ingrese sede: ")
+sección = input("Ingrese seccion: ")
+código = input("Ingrese código: ")
+print()
+print("Nombre de estudiante: " + nombre + " " + apellido)
+print("Sede: " + sede)
+print("Codigo y sección: " + código + " " + sección)
